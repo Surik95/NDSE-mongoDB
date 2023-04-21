@@ -1,10 +1,10 @@
-### Создвние базы данных
+### Создание базы данных
 
 ```javascript
 ./bin/mongo liblary
 ```
 
-### Создвние коллекции
+### Создание коллекции
 
 ```javascript
 db.createCollection('books');
